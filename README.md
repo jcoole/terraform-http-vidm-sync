@@ -10,7 +10,7 @@ Click **Create Client** and specify the following values:
 
 | Access Type | Client ID | Shared Secret | Token Time-To-Live  |
 |---|---|---|---|
-| Service Client Token | <Your OAUTH2 Client Name>  | Click *Generate Shared Secret*  | Whatever your admin wants, but low values are better. |
+| Service Client Token | \<Your OAUTH2 Client Name>\  | Click **Generate Shared Secret**  | Whatever your admin wants, but low values are better. |
 
 When this module runs, it will return the ID of the directory that a sync was submitted against for troubleshooting purposes.
 
